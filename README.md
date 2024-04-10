@@ -1,13 +1,8 @@
-![alt text](https://github.com/TheDevLucas/test/blob/main/image.png?raw=true)
-
 <a name="readme-top"></a>
 
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
-![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/test?style=for-the-badge)
-![GitLab Stars](https://img.shields.io/github/stars/TheDevLucas/test?style=for-the-badge)
-![GitLab Stars](https://img.shields.io/github/forks/TheDevLucas/test?style=for-the-badge)
 
 ## Trading Website Project
 This page was created with the intention of testing my skills and is not affiliated with any job or organization.
