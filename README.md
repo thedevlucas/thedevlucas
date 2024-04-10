@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 ![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
-![GitHub followers]([https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))
+![GitHub followers](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <div align="center">
 
