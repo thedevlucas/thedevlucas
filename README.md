@@ -8,7 +8,7 @@
 Hey there, <a href="#">I'm Lucas</a>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, incidunt unde ipsum, aspernatur vel ab nam maiores iusto possimus nostrum, odio a quaerat dolorum. Quis quidem laborum quod doloremque ullam?</p>
 <p align="center">
-  <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+  <a href="https://www.instagram.com/lucass.juarez_/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/TheDevLucas?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/thedevlucas?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/TheDevLucas"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thedevlucas?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
