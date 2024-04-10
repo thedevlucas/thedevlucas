@@ -1,7 +1,5 @@
 
 <a name="readme-top"></a>
-![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
-![GitHub followers](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 
@@ -9,6 +7,8 @@
 
 Hey there, i'm Lucas
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, incidunt unde ipsum, aspernatur vel ab nam maiores iusto possimus nostrum, odio a quaerat dolorum. Quis quidem laborum quod doloremque ullam?</p>
+- ![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
+- ![GitHub followers](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 </div>
