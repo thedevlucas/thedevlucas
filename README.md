@@ -16,7 +16,7 @@ Hi, i'm Lucas
 
 <p align="right">(<a href="#readme-top">Go up</a>)</p>
 
-## 🛠️ Stack
+## 🛠️ Dev Skills
 
 - ![GitLab Stars](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - This proyect was maded by HTML
 - ![GitLab Stars](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - This proyect was maded by CSS3
