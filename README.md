@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/TheDevLucas?style=for-the-badge)
-
 ## Trading Website Project
 This page was created with the intention of testing my skills and is not affiliated with any job or organization.
 
