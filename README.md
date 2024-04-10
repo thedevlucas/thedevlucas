@@ -5,8 +5,7 @@
 
 <div align="center">
 
-## Trading Website Project
-This page was created with the intention of testing my skills and is not affiliated with any job or organization.
+Hi, i'm Lucas
 
 </div>
 
