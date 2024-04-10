@@ -4,6 +4,7 @@
 ![GitHub followers](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 Hi, i'm Lucas
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, incidunt unde ipsum, aspernatur vel ab nam maiores iusto possimus nostrum, odio a quaerat dolorum. Quis quidem laborum quod doloremque ullam?
 
 <div align="center">
 
