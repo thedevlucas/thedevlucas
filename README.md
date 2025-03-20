@@ -44,11 +44,12 @@ Hey there, <a href="#">I'm Lucas</a>
 
 ### Cloud:
 - ![GitLab Stars](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+- ![GitLab Stars](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+- ![GitLab Stars](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) 
 
 ### Programming Languages:
 - ![GitLab Stars](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - ![GitLab Stars](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- 
 
 
 
