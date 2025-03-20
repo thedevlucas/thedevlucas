@@ -6,7 +6,7 @@
 <div align="center">
 
 Hey there, <a href="#">I'm Lucas</a>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, incidunt unde ipsum, aspernatur vel ab nam maiores iusto possimus nostrum, odio a quaerat dolorum. Quis quidem laborum quod doloremque ullam?</p>
+<p>I am a Web Designer and Developer passionate about creating modern interfaces, high-performance websites, and secure solutions. I specialize in UI/UX design, full-stack development, and API integration, ensuring that every project is fast, secure, and scalable.</p>
 <p align="center">
   <a href="https://www.instagram.com/lucass.juarez_/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/TheDevLucas?tab=repositories&sort=stargazers">
