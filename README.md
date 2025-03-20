@@ -47,6 +47,8 @@ Hey there, <a href="#">I'm Lucas</a>
 
 ### Programming Languages:
 - ![GitLab Stars](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![GitLab Stars](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 
 
 
 
