@@ -3,7 +3,9 @@
 <div align="center">
 
 <h1>Hey there, I'm <a href="#">Lucas</a> 👋</h1>
-<p><b>Web Designer & Full-Stack Developer</b> — I craft modern interfaces, high-performance websites, and secure solutions. I focus on UI/UX, full-stack development, and API integration to deliver products that are <b>fast</b>, <b>secure</b>, and <b>scalable</b>.</p>
+<p><b>Web Designer & Full-Stack Developer</b> — I'm a proactive and adaptable programmer, focused on results. I enjoy working effectively in teams, bringing creative solutions, and keeping communication clear to build a positive environment.</p>
+
+
 
 <p align="center">
   <a href="https://www.instagram.com/lucass.juarez_/">
